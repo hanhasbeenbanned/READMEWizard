@@ -57,7 +57,6 @@ function generateMarkdown(data) {
 - [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
-- [Walkthrough](#walkthrough)
 - [Questions](#questions)
 - [Credits](#credits)
   

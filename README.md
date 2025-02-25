@@ -14,13 +14,13 @@
 - [Questions](#questions)
 - [Credits](#credits)
   
-  ## Installation 
-  All that's needed to install this project is to download the code and to install the dependencies on your local machine within the project. Inquirer is need for this application to run.
+## Installation 
+All that's needed to install this project is to download the code and to install the dependencies on your local machine within the project. Inquirer is need for this application to run.
 
-  ## Usage 
-  Once it's installed, you'll open up the terminal in the main folder of the project and run "node index.js". That will begin the questioning process to build the README.
+## Usage 
+Once it's installed, you'll open up the terminal in the main folder of the project and run "node index.js". That will begin the questioning process to build the README.
 
-  ## License
+## License
 This project is licensed under the MIT license.
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)

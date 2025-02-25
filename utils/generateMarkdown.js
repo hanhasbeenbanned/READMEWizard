@@ -61,13 +61,13 @@ function generateMarkdown(data) {
 - [Questions](#questions)
 - [Credits](#credits)
   
-  ## Installation 
-  ${data.install}
+## Installation 
+${data.install}
 
-  ## Usage 
-  ${data.usage}
+## Usage 
+${data.usage}
 
-  ${renderLicenseSection(data.license)}
+${renderLicenseSection(data.license)}
 
   ## Contributing
   ${data.contribute}

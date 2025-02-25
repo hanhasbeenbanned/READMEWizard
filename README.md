@@ -4,15 +4,15 @@
   ## Description 
   This is a simple README Generator that uses inquirer to help guide you through building a quick and easy professional README for your project. 
 
-  ## Table of Contents 
-    - [Installation](#install) 
-    - [Usage](#usage)
-    - [License](#license)
-    - [Contributing](#contribute)
-    - [Tests](#test)
-    - [Walkthrough](#walkthrough)
-    - [Questions](#questions)
-    - [Credits](#credits)
+ ## Table of Contents 
+- [Installation](#installation) 
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Walkthrough](#walkthrough)
+- [Questions](#questions)
+- [Credits](#credits)
   
   ## Installation 
   All that's needed to install this project is to download the code and to install the dependencies on your local machine within the project. Inquirer is need for this application to run.

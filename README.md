@@ -34,7 +34,7 @@ This project is licensed under the MIT license.
 
   ## Walkthrough
   If you're like me and need a visual aid, you can follow this link here:
-  https://watch.screencastify.com/v/7bTSQULoPpg4q85BAUME
+  https://drive.google.com/file/d/1kiMfruFW4FFk6nXmUXJsgM18C4hy6kJK/view?usp=sharing
 
   ## Questions
   If you have any questions, feel free to contact me at [hannahbry05@gmail.com](mailto:hannahbry05@gmail.com).
